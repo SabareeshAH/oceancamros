@@ -1,0 +1,17 @@
+.countiner-style{
+    height: 100%;
+    position: relative;   
+}
+.cen{
+    font-display:initial;
+    font-size: larger;
+    font-style: italic;
+}
+.w-60{
+    width: 100%;
+    height: 250px;
+}
+.footer{
+    background: rgb(164, 210, 238,50);
+    
+}
